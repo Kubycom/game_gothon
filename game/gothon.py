@@ -1,3 +1,10 @@
+"""
+Game in bash based on user's guess
+Where is begining heroe mission on Planet Percal
+and need to blow aliens base then to fly out from
+"""
+
+
 from sys import exit
 from random import randint
 from textwrap import dedent
