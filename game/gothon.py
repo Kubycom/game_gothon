@@ -1,6 +1,6 @@
 """
 Game in bash based on user's guess
-Where is begining heroe mission on Planet Percal
+Where is begining hero mission on Planet Percal
 and need to blow aliens base then to fly out from
 """
 
